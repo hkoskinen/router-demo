@@ -2,7 +2,7 @@ import React from 'react';
 
 const Error = () => (
   <div>
-    <p>Error - 404</p>
+    <h1>Error - 404</h1>
   </div>
 );
 
